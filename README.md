@@ -5,7 +5,7 @@ This project showcases an interactive Tableau dashboard designed to analyze key 
 The dashboard provides insights through dynamic visuals, filters, and KPIs.
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](tableau-sales-dashboard/screenshots/1.jpeg)
+![Dashboard Screenshot](screenshots/1.jpeg)
 
 
 ## 🔗 Live Dashboard
