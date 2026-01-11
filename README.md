@@ -4,6 +4,10 @@
 This project showcases an interactive Tableau dashboard designed to analyze key business metrics and trends.  
 The dashboard provides insights through dynamic visuals, filters, and KPIs.
 
+## 📷 Dashboard Preview
+![Dashboard Screenshot](tableau-sales-dashboard/screenshots/1.jpeg)
+
+
 ## 🔗 Live Dashboard
 To view the live interactive dashboard [click here](https://public.tableau.com/app/profile/sahil.nabi/viz/Tableau1_17680546258640/Dashboard1?publish=yes)
 
