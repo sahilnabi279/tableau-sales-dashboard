@@ -5,8 +5,7 @@ This project showcases an interactive Tableau dashboard designed to analyze key 
 The dashboard provides insights through dynamic visuals, filters, and KPIs.
 
 ## 🔗 Live Dashboard
-View the interactive dashboard on Tableau Public:  
-👉 https://public.tableau.com/app/profile/sahil.nabi/viz/Tableau1_17680546258640/Dashboard1?publish=yes
+To view the live interactive dashboard [click here](https://public.tableau.com/app/profile/sahil.nabi/viz/Tableau1_17680546258640/Dashboard1?publish=yes)
 
 ## 🛠 Tools Used
 - Tableau Public
